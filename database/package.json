@@ -1,0 +1,32 @@
+{
+  "name": "db_mongo_bmstu",
+  "version": "1.0.0",
+  "description": "BMSTU mondodb lab, server and client",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uburu/db_mongo_bmstu.git"
+  },
+  "keywords": [
+    "db",
+    "mongo",
+    "bmstu"
+  ],
+  "author": "@nikitarub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uburu/db_mongo_bmstu/issues"
+  },
+  "homepage": "https://github.com/uburu/db_mongo_bmstu#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.2",
+    "mongoose": "^5.3.14",
+    "pug": "^2.0.3"
+  }
+}
