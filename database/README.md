@@ -19,7 +19,8 @@
 
 ### Package
 1. `git clone`
-2. `cd databse npm i`
+2. `cd databse`
+3. `npm i`
 
 
 ## Start
